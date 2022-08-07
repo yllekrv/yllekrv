@@ -1,5 +1,5 @@
 <div> 
-  <a href="https://www.linkedin.com/in/weslley-fratini/" target="_blank">
+  <a href="https://www.linkedin.com/in/yllekv/" target="_blank">
     <img src="https://raw.githubusercontent.com/weslleyfratini/weslleyfratini/master/assets/linkedin.svg" width="30px"  alt="Weslley Fratini | LinkedIn" align="left" />
   </a>
 
